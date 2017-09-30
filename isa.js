@@ -1,1 +1,3 @@
-isa.js
+function runGo() {
+	console.log("running..");
+}

@@ -1,1 +1,17 @@
-isaStyles.css
+/* Styles for isa */
+
+#everything {
+	text-align: center;
+	width: 1000px;
+	margin: auto;
+}
+
+#portal {
+	text-align: center;
+	max-width: 1000px
+}
+
+#input {
+	text-align: center;
+	max-width: 600px
+}
