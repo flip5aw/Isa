@@ -12,4 +12,10 @@ function runGo() {
 	var inputText = document.createTextNode(input);
 	pass.appendChild(inputText);
 
+	responsiveVoice.speak(input);
+
+}
+
+function runSpeak() {
+
 }
