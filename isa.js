@@ -1,6 +1,9 @@
 //set the default voice
 responsiveVoice.setDefaultVoice("UK English Female");
 
+//start listening
+annyang.start();
+
 function runGo() {
 	
 	//make sure it's running
