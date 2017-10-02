@@ -1,0 +1,19 @@
+{
+  "name": "isa",
+  "version": "1.0.0",
+  "description": "interpretive stimuli analysis",
+  "main": "isaServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flip5aw/Isa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flip5aw/Isa/issues"
+  },
+  "homepage": "https://github.com/flip5aw/Isa"
+}
