@@ -1,3 +1,6 @@
+//set the default voice
+responsiveVoice.setDefaultVoice("UK English Female");
+
 function runGo() {
 	
 	//make sure it's running
@@ -13,6 +16,9 @@ function runGo() {
 	pass.appendChild(inputText);
 
 	responsiveVoice.speak(input);
+
+	var scrollLock = document.getElementById("portL");
+    scrollLock.scrollTop = scrollLock.scrollHeight;
 
 }
 
