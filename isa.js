@@ -17,7 +17,7 @@ function runGo() {
 
 	responsiveVoice.speak(input);
 
-	var scrollLock = document.getElementById("portL");
+	var scrollLock = document.getElementById("portal");
     scrollLock.scrollTop = scrollLock.scrollHeight;
 
 }
