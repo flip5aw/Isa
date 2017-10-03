@@ -4,6 +4,8 @@ responsiveVoice.setDefaultVoice("UK English Female");
 //start listening WILL NEED TO SET UP SERVER TO GET MICROPHONE PERMISSIONS
 annyang.start();
 
+console.log("We're live..");
+
 function runGo() {
 	
 	//make sure it's running

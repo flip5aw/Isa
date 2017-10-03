@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/flip5aw/Isa/issues"
   },
-  "homepage": "https://github.com/flip5aw/Isa"
+  "homepage": "https://github.com/flip5aw/Isa",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
 }
