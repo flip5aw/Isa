@@ -2,7 +2,7 @@
 responsiveVoice.setDefaultVoice("UK English Female");
 
 //start listening WILL NEED TO SET UP SERVER TO GET MICROPHONE PERMISSIONS
-annyang.start();
+//annyang.start();
 
 console.log("We're live..");
 
